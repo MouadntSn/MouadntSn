@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Mouad Nait Sliman
 
-<!--
-**MouadntSn/MouadntSn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Software Engineer
 
-Here are some ideas to get you started:
+I design and build scalable web applications with clean architecture and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** Angular, Next.js, PrimeNG, Tailwind
+- **Backend:** NestJS, ASP.NET Core, Laravel
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Docker, Git, GitHub Actions
+- **Architecture:** Clean Architecture, DDD, REST APIs
+
+### 🚀 Current Focus
+- Building enterprise-grade web applications
+- Improving system performance & scalability
+- Writing clean, maintainable code
+
+### 📫 Contact
+- LinkedIn: https://github.com/MouadntSn
+- Portfolio: your-website (optional)
