@@ -74,15 +74,15 @@ I’m a **Full-Stack Developer** specialized in building **enterprise-grade appl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DGSV&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=MouadntSn&show_icons=true&theme=github_dark" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: _add your link_
-- 🌐 Portfolio: _optional_
+- 💼 LinkedIn: [_add your link_](https://github.com/MouadntSn/)
+- 🌐 Portfolio: In progress
 
 ---
 
