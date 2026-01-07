@@ -3,7 +3,7 @@
 ### 💻 Full-Stack Software Engineer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,nextjs,laravel,ts,js,postgres,mysql,mongodb,docker,git,github,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,nextjs,reactjs,laravel,ts,js,postgres,mysql,mongodb,docker,git,github,tailwind&perline=7" />
 </p>
 
 <p align="center">
